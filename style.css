@@ -10,11 +10,13 @@
     What color do you think would provide a good contrast with red? 
     (Hint: Remember lighter colors contrast best with darker colors and vice versa). */
 
+
+
 /* 3. Recheck the ratio now. Afterwards, go to the HTML file.*/
 
 body {
     background-color: #d93f3f;
-    color: #eb2626;
+    color: #ffffff;
 }
 
 
@@ -24,7 +26,7 @@ body {
 
 .title {
     text-align: center;
-    color: #eb2626;
+    color:#ffffff;
     border: #eb2626 solid 5px;
     border-radius: 30px;
     font-family: 'Italianno', cursive;
